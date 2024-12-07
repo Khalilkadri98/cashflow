@@ -12,6 +12,7 @@ This is a full-stack cashflow management application built with Vite, TypeScript
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
+- [Learn More](#learn-more)
 - [License](#license)
 
 ## Features
